@@ -1,4 +1,5 @@
-Non official Pytorch implemenation of BRACE utility score.
+Non official Pytorch implemenation of BRACE utility score: Explanation-based Data Augmentation for Image
+Classification.
 
 Paper: https://openreview.net/pdf?id=Ydlco-tfIG
 
